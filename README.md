@@ -48,7 +48,7 @@ This project demonstrates proficiency in dealing with Hardware Sensors and Netwo
 
 | Prayer Times (Home) | Qibla Compass | Azkar Section |
 | :---: | :---: | :---: |
-|![WhatsApp Image 2025-12-19 at 11 24 59_3d612294](https://github.com/user-attachments/assets/19983419-576b-45dd-a5a9-d001f89696fe)|![WhatsApp Image 2025-12-19 at 11 24 59_93ff6d30](https://github.com/user-attachments/assets/8d64fe60-c9b6-4c83-9f9c-31bdbfb18385)| ![WhatsApp Image 2025-12-19 at 11 24 59_840c6bbc](https://github.com/user-attachments/assets/7e128231-f24f-492a-9d68-9bf424f55ee5)|
+|![WhatsApp Image 2025-12-19 at 11 24 59_3d612294](https://github.com/user-attachments/assets/19983419-576b-45dd-a5a9-d001f89696fe)|![WhatsApp Image 2025-12-19 at 11 24 59_93ff6d30](https://github.com/user-attachments/assets/8d64fe60-c9b6-4c83-9f9c-31bdbfb18385)|![WhatsApp Image 2025-12-19 at 11 24 59_840c6bbc](https://github.com/user-attachments/assets/7e128231-f24f-492a-9d68-9bf424f55ee5)|
 
 > *Note: Ensure your device has GPS enabled for the Qibla feature to function correctly.*
 
